@@ -1,6 +1,6 @@
 # Mathieu Dombrock
 
-Hi there! My name is Mathieu Dombrock and I'm a software engineer. I've been building software for over 10 years, and I've always had a passion for programming. My love of computing started at a young age when I wanted to make video games for my little brother. Since then, my interests have exploded to include web technology, audio software, graphics, electronics hacking, machine learning and more.
+Yo! My name is Mathieu Dombrock and I'm a software engineer. I've been building software for over 10 years, and I've always had a passion for programming. My love of computing started at a young age when I wanted to make video games for my little brother. Since then, my interests have exploded to include web technology, audio software, graphics, electronics hacking, machine learning and more.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matdombrock&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matdombrock&theme=zenburn&utcOffset=8)
